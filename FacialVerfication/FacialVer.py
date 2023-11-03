@@ -24,7 +24,7 @@ def verfiy(vid):
     faces = detector(gray) 
     for face in faces:
         try:
-            verfiedvalues =DeepFace.verify(vid, reference_img.copy())
+            verfiedvalues = DeepFace.verify(vid, reference_img.copy())
             if verfiedvalues['verified']:
                 x=verfiedvalues['facial_areas']['img1']["x"]
                 y=verfiedvalues['facial_areas']['img1']["y"]
