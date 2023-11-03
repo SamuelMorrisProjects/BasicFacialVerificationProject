@@ -1,2 +1,2 @@
-This folder stores the Images mainly the Model0 image which is used in the verfication process. This .txt file can be deleted. 
-Do not delete this folder unless you have configured the path to run as intended.
+This folder stores the images — mainly the Model0 image — which are used in the verfication process. This .txt file can be deleted. 
+Do not delete this folder unless you have configured the FacialVer.py file to run as intended.
