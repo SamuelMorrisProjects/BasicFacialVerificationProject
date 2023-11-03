@@ -9,6 +9,6 @@ The program functions by taking a picture of the user and then verifiying the fr
 
 Intially I had the program crop faces to ensure it verfifies the only one face in the captured frame but deep face auto-crops. So cropping the faces provided mix results. So to ensure that the program functions as intended make sure the background is clear of faces before intializing the program. When the Opencv2 frame pops up alternate faces can be introduced.
 
-This can be cirumvented by deleting the extract_image function and using a different image of the intened face. Although I find that the extract_image function is very convient.
+This can be cirumvented by deleting the extract_image function and using a different image of the intended face. Although, I find that the extract_image function is very convient for development.
 
 Feel free to use this code in other applications, it was made with educational purposes in mind :). Also suggestions and constructive critism is STRONGLY ENCOURAGED. 
