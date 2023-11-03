@@ -1,1 +1,0 @@
-This folder stores the Images mainly the Model0 image which is used in the verfication process
