@@ -1,7 +1,7 @@
 # FacialVerificationProject
 READ ME 
 
-A webcam based basic facial verification program using OpenCV2, Numpy Dlib and Deep Face. 
+A webcam based basic facial verification program using OpenCV2, Numpy Dlib and Deep Face. Feel Free to reach out to me on www.linkedin.com/in/samuel-morris-8b5356298 or GitHub reguarding about the project.
 
 Over the course of this repo's development I plan on adding a GUI using tkinter to make it more acessible.
 
