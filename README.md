@@ -3,9 +3,9 @@ READ ME
 
 A webcam based basic facial verification program using OpenCV2, Numpy Dlib and Deep Face. Feel Free to reach out to me on www.linkedin.com/in/samuel-morris-8b5356298 or GitHub reguarding about the project.
 
-I plan on adding threading to speed optimize processing. Please also take into consideration that this project is still in development.
+I plan on adding threading to optimize processing. Please also take into consideration that this project is still in development.
 
-The program starts on running the FacialVer.py file 
+The program starts on running of the FacialVer.py file 
 The program functions by taking a picture of the user and then verifies the frames captured matches the intial picture. That being said it is imperative that no one else is in the frame before the OpenCV2 frame appears.
 
 Over the course of this repo's development I plan on adding a GUI using tkinter to make it more acessible. 
